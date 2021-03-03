@@ -1,5 +1,5 @@
 {
-  "name": "gugglegum/memory-size",
+  "name": "simtabi/memory-size",
   "description": "Parser and formatter for human-friendly memory or file sizes based on standards",
   "type": "library",
   "keywords": ["parser", "formatter", "file size", "memory size", "normalize", "recognize", "resolve"],
